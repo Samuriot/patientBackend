@@ -1,3 +1,5 @@
 db.sqlite3
 /env
 *.env
+pw.txt
+pw.txt.pub
